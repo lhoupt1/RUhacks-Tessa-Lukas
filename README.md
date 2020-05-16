@@ -4,7 +4,9 @@
 Tessa- read this really quickly and then download the "simple-python-get-example" and "simple-python-post-example" files and run them
 
 -GET request: for retrieving info
+
 -POST request: for submitting info (ex a sign-in to a website)
+
 -API use: to make your data accessible for developers
   -Examples:
     -https://openweathermap.org/api weather data
